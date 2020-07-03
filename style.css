@@ -1,0 +1,28 @@
+body{
+    font-family: 'Manrope';
+    color:hsl(212, 23%, 69%);
+}
+
+img {
+    border-radius: 100px;
+    width: 45px;
+    height: 45px;
+}
+
+.section {
+    width: 375px;
+    margin-top: 20%;
+    margin-left: 40%;
+    margin-bottom: 20%;
+    border-radius: 10%;
+    border-width: 10px;
+}
+
+#inner-section {
+    font-size: 13px;
+}
+
+#img-section {
+    display: flex;
+    justify-content: flex-start;
+}
